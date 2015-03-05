@@ -1,0 +1,28 @@
+{
+    "name": "highcharts-exporter",
+    "version": "1.0.3",
+    "description": "A phantomjs way for building a highcharts export server.",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coojee2012/highchart-export"
+    },
+    "keywords": [
+        "highcharts",
+        "charts",
+        "export",
+        "exporter"
+    ],
+    "dependencies": {
+        "phantomjs": "^1.9.7"
+    },
+    "author": "Yong Lin,11366846@qq.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/coojee2012/highchart-export/issues"
+    },
+    "homepage": "https://github.com/coojee2012/highchart-export"
+}
